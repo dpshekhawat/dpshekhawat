@@ -23,7 +23,7 @@ Feel free to explore my repositories, and if you feel inspired to contribute, I'
 
 If you have any questions or want to collaborate, don't hesitate to reach out. Happy coding! 🚀
 
-&emsp;&emsp;&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;<a href="https://twitter.com/intent/follow?screen_name=singhdpy&tw_p=followbutton/">Twitter</a> &emsp;&emsp;&emsp;&emsp;•&emsp;&emsp;&emsp;&emsp;
+&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;<a href="https://twitter.com/intent/follow?screen_name=singhdpy&tw_p=followbutton/">Twitter</a> &emsp;&emsp;&emsp;&emsp;•&emsp;&emsp;&emsp;&emsp;
 <a href="https://www.linkedin.com/in/deependra-singh-shekhawat/">LinkedIn</a> &emsp;&emsp;&emsp;&emsp;•&emsp;&emsp;&emsp;&emsp;
 <a href="mailto:deependar.s.shekhawat@gmail.com">Mail</a>&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;-&emsp;
 <br />
