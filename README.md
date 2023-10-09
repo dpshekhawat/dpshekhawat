@@ -1,24 +1,28 @@
-## Hi there👋 curious coder!, I'm [Deependra Singh](https://bio.link/dpshekhawat) nice to see you! 🌱 Welcome to my GitHub Greenhouse! 🌿
+### Hi there👋 curious coder!, I'm [Deependra Singh](https://bio.link/dpshekhawat) nice to see you! 
 
-As an avid developer, I believe in the power of collaboration and open-source contributions. Let's unite our skills and ideas to build dreams turned into digital reality! 🌱
+<!-- GitHub Stats 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dpshekhawat&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=stars)
+-->
 
-### 🌟 Currently, I'm contributing to some fantastic projects, in my garden of code! Care to join me on this green journey? 🌿
+<!-- About Me -->
+### About 🚀 
+Passionate developer on a quest to turn code into innovation. 
+Recent graduate with a fervor for AI, ML, and mathematics.
+Currently delving into the realm of Quantum Computing through the Qubit by Qubit program with Google Quantum AI.
+Open-source enthusiast who contributed to meaningful project during Google Summer of Code 2022, specializing in ML and Edge Computing.
+Eager to connect with fellow enthusiasts and explore the limitless possibilities of AI/ML and Quantum technologies.
 
-📌 [UnifyAI](https://github.com/unifyai) - On a mission to unify all ML frameworks 💥 and automate code conversions 🔄.
 
-📌 [Project Flotta](https://github.com/project-flotta) - Manages containerized workload on small-footprint devices while enabling atomic OS upgrades and rollbacks.
+<!-- Featured Projects -->
+### Contributions ⌨️
+- [UnifyAI](https://github.com/unifyai)
+🌐 On a mission to unify all ML frameworks and automate code conversions.
+- [Project Flotta](https://github.com/project-flotta)
+🌍 Managing containerized workloads on small-footprint devices, enabling atomic OS upgrades and rollbacks.
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys)
+⚙️ Windows system utilities to maximize productivity
+- [Microsoft DevHome](https://github.com/microsoft/devhome)
+📟 Dev Home is a control center providing the ability to track all of your workflows and coding tasks in one place. 
 
-Feel free to explore my repositories, and if you feel inspired to contribute, I'm all ears! Let's collaborate and co-create wonders in this digital oasis! 🌱🌟🚀 
-### Here's a glimpse of what I'm currently up to:
-
-🔧 [Utility Software](https://github.com/dpshekhawat/utility-software) - Windows keyboard blocking utility software, ensuring a seamless and controlled keyboard experience.
-
----
-
-"Alone we can do so little; together we can do so much." - Helen Keller
-
-"Alone we can write code; together we can create a software revolution." - Deependra Singh Shekhawat 
-
----
-
-If you have any questions or want to collaborate, don't hesitate to reach out. Happy coding! 🚀
+<!-- Contact and Connect -->
+### Connect - [Linkedin](https://www.linkedin.com/in/deependra-singh-shekhawat/)
